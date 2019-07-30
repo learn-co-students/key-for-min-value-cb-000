@@ -27,5 +27,3 @@ def key_for_min_value(name_hash)
     lowest_priced_item
   end
 end
-
-key_for_min_value({one: 10, two: 20, three: 500})
